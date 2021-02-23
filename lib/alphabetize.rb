@@ -1,3 +1,6 @@
+require 'pry'
+
+ALPHABET = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
 def alphabetize(arr)
-  # code here
+  binding.pry
 end
